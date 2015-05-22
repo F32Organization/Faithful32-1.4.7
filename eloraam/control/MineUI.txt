@@ -1,0 +1,14 @@
+If you are using MineUI or even if you just want to have
+all the characters needed to make boxes then you should
+delete the original displaygui.png and rename the other/
+remove "_MineUI" from it's name.
+
+The reason this is needed is that the default character
+map is missing a horizontally centred vertical line and
+a centred cross. The provided alternate character set
+replaces the characters normally found at code 5 and 7
+with these missing characters.
+
+More information about MineUI:
+
+http://integratedredstone.wikispaces.com/MineUI
